@@ -1,0 +1,11 @@
+h1. RedRunner 1.0
+
+Standalone runner for Windows Services.
+
+h2. How does it work.
+
+This tool searches for the Windows Services entry point and hosts it inside this tool. This will save you from installing it in your machine and you can easily turn it on and off.
+
+h2.How to use.
+
+Just copy the output file in the same directory of the Windows Service and run the UI.
